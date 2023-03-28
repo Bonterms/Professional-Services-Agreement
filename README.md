@@ -4,11 +4,11 @@
 ## About Bonterms
 [Bonterms](https://bonterms.com/) is simplifying commercial contracting through Standard Agreements. Our enterprise Cloud Terms, DPA, SLA and Mutual NDA let the parties start from a balanced foundation and negotiate by Cover Page, not redlines. The Bonterms Platform will leverage our Standard Agreements to take collaborative dealmaking to the next level.
 
-## How the Cloud Terms were Created
-The Cloud Terms were drafted by the [Bonterms Open Source Forms Committee](https://bonterms.com/committee/). The Cloud Terms went through six major drafts, three sub-committees (Data, Risk and General Terms) and multiple meetings, surveys and discussions over seven months.
+## How the Professional Services Agreement was Created
+The PSA was drafted by the [Bonterms Standard Agreement Committee](https://bonterms.com/committee/). The PSA went through [six] major drafts, [three sub-committees (Data, Risk and General Terms)] and multiple meetings, surveys and discussions over [seven] months.
 
 ## How to Use
-1. **Review** the Cloud Terms with your lawyer.
+1. **Review** the Professional Services Agreement with your lawyer.
 2. **Prepare** your Cover Page ([example](https://bonterms.com/forms/cloud-terms-cover-page-example/)).
 - Identify the parties, Effective Date and other **Key Terms**.
 - Propose any **Additional Terms** ([examples](https://bonterms.com/forms/additional-terms-toolkit/)).
