@@ -10,21 +10,17 @@ The PSA was drafted by the [Bonterms Standard Agreement Committee](https://bonte
 ## How to Use
 1. **Review** the Professional Services Agreement with your lawyer.
 2. **Prepare** your Cover Page ([example](https://bonterms.com/forms/cloud-terms-cover-page-example/)).
-- Identify the parties, Effective Date and other **Key Terms**.
-- Propose any **Additional Terms** ([examples](https://bonterms.com/forms/additional-terms-toolkit/)).
-- Name the Agreement you are creating (for example, “Cloud Services Agreement”).
+- Identify the parties and **Key Terms**: Effective Date, Rights in Deliverables, Governing Law and Courts.
+- Propose any **Additional Terms** (additions to or modifications of the PSA).
 3. **Incorporate** any Attachments by reference ([example](https://bonterms.com/forms/additional-terms-toolkit/#attachments)).
-- Add any Support Policy ([example](https://bonterms.com/forms/support-policy-version-1-0/)), Acceptable Use Policy ([example](https://bonterms.com/forms/acceptable-use-policy-version-1-0/)), Security Policy or other Attachments by linking or attaching on the Cover Page.
-- If you want to add the Bonterms SLA, see guidance [here](https://bonterms.com/how-to/#sla).
-- If you want to add the Bonterms DPA, see guidance [here](https://bonterms.com/how-to/#dpa).
+- Add any SOW (example) or other Attachments by linking or attaching on the Cover Page.
 4. **Send** your Cover Page (and Attachments) to your counterparty.
 - Add a cover note or try our [Explainer](https://bonterms.com/forms/bonterms-explainer/).
 5. **Negotiate** the Cover Page and Attachments.
-6. **Sign** the Cover Page and create your **Agreement**!
-7. **Issue** or receive Orders ([example](https://bonterms.com/forms/order-form-example/)).
+6. **Sign** the Cover Page and create your **PSA**!
 
 ## Open Source
-The Cloud Terms and all other Bonterms Standard Agreements are free to use under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
+The PSA and all other Bonterms Standard Agreements are free to use under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
 
 ## Feedback or questions?
 Reach out to support@bonterms.com.
