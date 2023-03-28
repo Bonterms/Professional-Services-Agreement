@@ -5,7 +5,7 @@
 [Bonterms](https://bonterms.com/) is simplifying commercial contracting through Standard Agreements. Our enterprise Cloud Terms, DPA, SLA and Mutual NDA let the parties start from a balanced foundation and negotiate by Cover Page, not redlines. The Bonterms Platform will leverage our Standard Agreements to take collaborative dealmaking to the next level.
 
 ## How the Professional Services Agreement was Created
-The PSA was drafted by the [Bonterms Standard Agreement Committee](https://bonterms.com/committee/). The PSA went through [six] major drafts, [three sub-committees (Data, Risk and General Terms)] and multiple meetings, surveys and discussions over [seven] months.
+The PSA was drafted by the [Bonterms Standard Agreement Committee](https://bonterms.com/committee/). The PSA went through seven major drafts and multiple meetings, surveys and discussions over eight months.
 
 ## How to Use
 1. **Review** the PSA Terms with your lawyer.
