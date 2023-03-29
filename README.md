@@ -1,5 +1,4 @@
 # Professional Services Agreement
-[Enterprise SaaS/Cloud subscription terms, balanced between customer and provider.]
 
 ## About Bonterms
 [Bonterms](https://bonterms.com/) is simplifying commercial contracting through Standard Agreements. Our enterprise Cloud Terms, DPA, SLA and Mutual NDA let the parties start from a balanced foundation and negotiate by Cover Page, not redlines. The Bonterms Platform will leverage our Standard Agreements to take collaborative dealmaking to the next level.
