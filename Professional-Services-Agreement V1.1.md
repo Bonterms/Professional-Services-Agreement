@@ -1,4 +1,4 @@
-# Bonterms Professional Services Agreement (Version 1.0)
+# Bonterms Professional Services Agreement (Version 1.1)
 
 **1**.	**The Agreement**. The Bonterms Professional Services Agreement provides standardized terms for the provision of professional services. To use the Bonterms Professional Services Agreement, Customer and Provider complete and execute a Cover Page that specifies Key Terms, Attachments and any Additional Terms. Collectively, the Bonterms Professional Services Agreement, Cover Page and any SOWs or Change Orders form the parties’ agreement (“**Agreement**”). Conflicts between parts of the Agreement are governed by Section 17.5 (Order of Precedence). Capitalized terms are defined in context or in Section 2 (Definitions).
 
