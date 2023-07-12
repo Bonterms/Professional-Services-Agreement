@@ -56,7 +56,7 @@
 
 2.26.	“**Laws**” means all laws, regulations, rules, court orders or other binding requirements of a government authority that apply to a party.
 
-2.27.	“**Licensed Deliverables**” means Deliverables specified by the parties to be licensed by Provider to Customer in accordance with Section 6, including any Third-Party Materials.
+2.27.	“**Licensed Deliverables**” means Deliverables specified by the parties to be licensed by Provider to Customer in accordance with Section 6, including any Third-Party Materials or Reserved Materials.
 
 2.28.	“**Open Source**” means any open source code or libraries of any type (such as, for example purposes only, any code licensed under any version of the Apache, BSD, Eclipse, GPL or LGPL, MIT or Mozilla licenses).
 
@@ -152,9 +152,9 @@
 
 (b)	Work-for-Hire. To the fullest extent permitted by law, all copyrightable aspects of Assigned Deliverables will be deemed to be a “work made for hire” (as defined in Section 101 of Title 17 of the United States Code).
 
-(c)	Third-Party Materials. To the extent any Third-Party Materials are included in an Assigned Deliverable in accordance with Section 5.2 (Third-Party Materials), such Third-Party Materials are hereby licensed to Provider under the license for Licensed Deliverables in Section 6.2(a). 
+(c)	Third-Party Materials. To the extent any Third-Party Materials are included in an Assigned Deliverable in accordance with Section 5.2 (Third-Party Materials), such Third-Party Materials are hereby licensed by Provider to Customer under the license for Licensed Deliverables in Section 6.2(a). 
 
-(d)	Reserved Materials. Provider will not incorporate into or provide with any Assigned Deliverable any Reserved Materials unless Provider has specifically identified in reasonable detail such Reserved Materials in the applicable SOW. To the extent any Reserved Materials are included in an Assigned Deliverable, such Reserved Materials are hereby licensed to Provider under the license for Licensed Deliverables in Section 6.2(a). 
+(d)	Reserved Materials. Provider will not incorporate into or provide with any Assigned Deliverable any Reserved Materials unless Provider has specifically identified in reasonable detail such Reserved Materials in the applicable SOW. To the extent any Reserved Materials are included in an Assigned Deliverable, such Reserved Materials are hereby licensed by Provider to Customer under the license for Licensed Deliverables in Section 6.2(a). 
 
 (e)	Waived Rights. If Provider has any rights in an Assigned Deliverable that cannot be assigned to Customer (including any moral rights, such as the right to be named as author, the right to modify, the right to prevent mutilation and the right to prevent commercial exploitation), Provider hereby unconditionally and irrevocably waives the enforcement of such rights (“**Waived Rights**”) and waives and quitclaims to Customer all Actions of any kind against Customer and its licensees (through multiple tiers) with respect to Waived Rights. At Customer’s request and expense, Provider will consent to and join in any Actions to enforce Waived Rights.
 
@@ -228,7 +228,7 @@
 
 10.5.	No Other Compensation. This Section 10 sets forth the only compensation that Provider is entitled to receive in exchange for the Services or Deliverables and Provider is not entitled to any other payments, reimbursements, royalties or consideration of any kind.
 
-10.6.	Taxes. Customer is responsible for any sales, use, GST, value-added, withholding or similar taxes or levies that apply to its Services, whether domestic or foreign (“**Taxes**”), other than Provider’s income tax. Fees and expenses are exclusive of Taxes.
+10.6.	Taxes. Customer is responsible for any sales, use, GST, value-added, withholding or similar taxes or levies that apply to the Services, whether domestic or foreign (“**Taxes**”), other than Provider’s income tax. Fees and expenses are exclusive of Taxes.
 
 10.7.	Payment Disputes. If Customer disputes an invoice in good faith, it will notify Provider within the Payment Period and the parties will seek to resolve the dispute over a 15-day discussion period. Customer is not required to pay disputed amounts during the discussion period, but Customer will timely pay all undisputed amounts. After the discussion period and any further Escalation Process, either party may pursue any available remedies.
 
