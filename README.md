@@ -1,7 +1,7 @@
 # Professional Services Agreement
 
 ## About Bonterms
-[Bonterms](https://bonterms.com/) is simplifying commercial contracting through Standard Agreements. Our enterprise Cloud Terms (with DPA and SLA Attachments), Professional Services Agreement (PSA) and Mutual NDA let the parties start from a balanced foundation and negotiate by Cover Page, not redlines. The Bonterms Platform will leverage our Standard Agreements to take collaborative dealmaking to the next level. Bonterms is lawyer-led and funded by XYZ Capital and Wilson Sonsini.
+[Bonterms](https://bonterms.com/) is simplifying commercial contracting through Standard Agreements. Our [Standard Agreements](https://bonterms.com/#standard-agreements) let the parties start from a balanced foundation and negotiate by Cover Page, not redlines. The [Bonterms Platform](https://bonterms.com/platform/) leverages our Standard Agreements to take collaborative dealmaking to the next level. Bonterms is lawyer-led and funded by XYZ Capital and Wilson Sonsini.
 
 ## How the Professional Services Agreement was Created
 The PSA was drafted by the [Bonterms Standard Agreement Committee](https://bonterms.com/committee/). The PSA went through seven major drafts and multiple meetings, surveys and discussions over eight months.
